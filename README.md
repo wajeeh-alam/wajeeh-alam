@@ -1,6 +1,6 @@
 # hi, i'm wajeeh 👋
 
-first-year cs @ uwaterloo. i build things for students, and somehow 300k+ like my videos about that and my life :)
+first-year cs @ uwaterloo. i build things for students, and somehow 300k+ ppl watch my videos about that and my life :)
 
 **right now**
 - 🔨 swe at oro - building from 0-1
