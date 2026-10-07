@@ -3,7 +3,7 @@
 first-year cs @ uwaterloo. i build things for students, and somehow 300k+ ppl watch my videos about that and my life :)
 
 **right now**
-- 🔨 swe at oro - building from 0-1
+- 🔨 swe at Oro[buildingoro.ca] - building from 0-1
 - 📱 cs/uni-life instagram, 300k+ monthly views
 - 💻 working on | oro & cliprank |
 
