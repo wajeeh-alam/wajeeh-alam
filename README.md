@@ -1,7 +1,14 @@
-### 🚀 About Me:
+# hi, i'm wajeeh 👋
 
-# Hi! Welcome to my Github landing page!
-# I'm Wajeeh, I study CS at the University of Waterloo.
+first-year cs @ uwaterloo. i build things for students, and somehow 300k+ of them a month watch my videos about it.
 
-🔭 I’m currently building Oro
-💬 Reach me at wajeeh.alam@uwaterloo.ca
+**right now**
+- 🔨 swe at oro - building from 0-1
+- 📱 cs/uni-life instagram, 300k+ monthly views
+- 💻 working on | oro & cliprank |
+
+**stack**
+python · ruby on rails · fastapi · typescript · postgres
+
+**find me**
+📫 wajeeh.alam@uwaterloo.ca · ig: [wajeehalam._] · linkedin: [[link](https://www.linkedin.com/in/wajeeh-alam/)
